@@ -18,7 +18,7 @@ Always exploring scripting and secure system management 🔒. And also some Term
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35" alt="CSS" title="CSS">
-  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" height="35" alt="neovim/vim" title="neovim/vim">
+  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" height="35" alt="Neovim/VIM" title="Neovim/VIM">
   <img src="https://skillicons.dev/icons?i=c&theme=dark" height="35" alt="C" title="C">
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="35" alt="PostgreSQL" title="PostgreSQL">
   <img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="35" alt="Nginx" title="Nginx">
