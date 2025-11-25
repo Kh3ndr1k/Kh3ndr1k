@@ -23,6 +23,7 @@ Always exploring scripting and secure system management 🔒. And also some Term
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="35" alt="PostgreSQL" title="PostgreSQL">
   <img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="35" alt="Nginx" title="Nginx">
   <img src="https://skillicons.dev/icons?i=md&theme=dark" height="35" alt="Markdown" title="Markdown">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="35" alt="Markdown" title="Markdown">
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="35" alt="Linux" title="Linux">
   <img src="https://skillicons.dev/icons?i=debian&theme=dark" height="35" alt="Debian" title="Debian">
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" height="35" alt="Ubuntu" title="Ubuntu">
@@ -32,6 +33,7 @@ Always exploring scripting and secure system management 🔒. And also some Term
   <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="35" alt="Obsidian" title="Obsidian">
   <img src="https://skillicons.dev/icons?i=py&theme=dark" height="35" alt="Python3" title="Python3">
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="35" alt="Bash Scripts" title="Bash Script">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="35" alt="Markdown" title="Markdown">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" height="35" alt="HTML5" title="HTML5">
   <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35" alt="JavaScript" title="JavaScript">
 </div>
