@@ -38,5 +38,5 @@ Always exploring scripting and secure system management 🔒.
 <br><br>
 
 <div align="center">
-![Used Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=Kh3ndr1k&theme=radical&layout=compact)
+![Used Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=khendrik&theme=radical&layout=compact)
 </div>
