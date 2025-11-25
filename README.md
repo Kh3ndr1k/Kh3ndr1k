@@ -17,7 +17,7 @@ Always exploring scripting and secure system management 🔒. And also some Term
 <h2>Language and tools 🛠️</h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35" alt="css">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35" alt="css", title="css">
   <img src="https://skillicons.dev/icons?i=neovim&theme=dark" height="35" alt="neovim/vim">
   <img src="https://skillicons.dev/icons?i=c&theme=dark" height="35" alt="c">
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="35" alt="postgreSQL">
