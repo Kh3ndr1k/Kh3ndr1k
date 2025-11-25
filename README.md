@@ -7,7 +7,7 @@
 
 <p>
 Passionate about <b>cybersecurity 🛡️</b>, <b>Linux systems 🐧</b>, and <b>programming 💻</b>,
-Always exploring scripting and secure system management 🔒. And also a bit of Termux on Android ›_.
+Always exploring scripting and secure system management 🔒. And also some Termux on Android ›_.
 </p>
 <br>
 
