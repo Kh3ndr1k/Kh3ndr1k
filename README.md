@@ -17,23 +17,23 @@ Always exploring scripting and secure system management 🔒. And also some Term
 <h2>Language and tools 🛠️</h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35" alt="css", title="css">
-  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" height="35" alt="neovim/vim">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="35" alt="c">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="35" alt="postgreSQL">
-  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="35" alt="nginx">
-  <img src="https://skillicons.dev/icons?i=md&theme=dark" height="35" alt="markdown">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="35" alt="linux">
-  <img src="https://skillicons.dev/icons?i=debian&theme=dark" height="35" alt="debian">
-  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" height="35" alt="ubuntu">
-  <img src="https://skillicons.dev/icons?i=arch&theme=dark" height="35" alt="arch linux">
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="35" alt="windows">
-  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="35" alt="kafka">
-  <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="35" alt="obsidian">
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" height="35" alt="python3">
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="35" alt="bash scripts">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="35" alt="html5">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35" alt="javascript">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35" alt="CSS" title="CSS">
+  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" height="35" alt="neovim/vim" title="neovim/vim">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="35" alt="C" title="C">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="35" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="35" alt="Nginx" title="Nginx">
+  <img src="https://skillicons.dev/icons?i=md&theme=dark" height="35" alt="Markdown" title="Markdown">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="35" alt="Linux" title="Linux">
+  <img src="https://skillicons.dev/icons?i=debian&theme=dark" height="35" alt="Debian" title="Debian">
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" height="35" alt="Ubuntu" title="Ubuntu">
+  <img src="https://skillicons.dev/icons?i=arch&theme=dark" height="35" alt="Arch Linux" title="Arch Linux">
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="35" alt="Windows" title="Windows">
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="35" alt="Kafka" title="Kafka">
+  <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="35" alt="Obsidian" title="Obsidian">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" height="35" alt="Python3" title="Python3">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="35" alt="Bash Scripts" title="Bash Script">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="35" alt="HTML5" title="HTML5">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35" alt="JavaScript" title="JavaScript">
 </div>
 <br><br>
 
